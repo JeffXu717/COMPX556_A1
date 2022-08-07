@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "2DRP_GUI/1.0.0": {
+        "runtime": {
+          "2DRP_GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2DRP_GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

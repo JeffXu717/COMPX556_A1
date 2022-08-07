@@ -1,0 +1,15 @@
+D:\Project\C#\2DRP_GUI\2DRP_GUI\bin\Debug\netcoreapp3.1\2DRP_GUI.exe
+D:\Project\C#\2DRP_GUI\2DRP_GUI\bin\Debug\netcoreapp3.1\2DRP_GUI.deps.json
+D:\Project\C#\2DRP_GUI\2DRP_GUI\bin\Debug\netcoreapp3.1\2DRP_GUI.runtimeconfig.json
+D:\Project\C#\2DRP_GUI\2DRP_GUI\bin\Debug\netcoreapp3.1\2DRP_GUI.runtimeconfig.dev.json
+D:\Project\C#\2DRP_GUI\2DRP_GUI\bin\Debug\netcoreapp3.1\2DRP_GUI.dll
+D:\Project\C#\2DRP_GUI\2DRP_GUI\bin\Debug\netcoreapp3.1\2DRP_GUI.pdb
+D:\Project\C#\2DRP_GUI\2DRP_GUI\obj\Debug\netcoreapp3.1\2DRP_GUI.csprojAssemblyReference.cache
+D:\Project\C#\2DRP_GUI\2DRP_GUI\obj\Debug\netcoreapp3.1\2DRP_GUI.AssemblyInfoInputs.cache
+D:\Project\C#\2DRP_GUI\2DRP_GUI\obj\Debug\netcoreapp3.1\2DRP_GUI.AssemblyInfo.cs
+D:\Project\C#\2DRP_GUI\2DRP_GUI\obj\Debug\netcoreapp3.1\2DRP_GUI.csproj.CoreCompileInputs.cache
+D:\Project\C#\2DRP_GUI\2DRP_GUI\obj\Debug\netcoreapp3.1\2DRP_GUI.dll
+D:\Project\C#\2DRP_GUI\2DRP_GUI\obj\Debug\netcoreapp3.1\2DRP_GUI.pdb
+D:\Project\C#\2DRP_GUI\2DRP_GUI\obj\Debug\netcoreapp3.1\2DRP_GUI.genruntimeconfig.cache
+D:\Project\C#\2DRP_GUI\2DRP_GUI\obj\Debug\netcoreapp3.1\_2DRP_GUI.GUIForm.resources
+D:\Project\C#\2DRP_GUI\2DRP_GUI\obj\Debug\netcoreapp3.1\2DRP_GUI.csproj.GenerateResource.cache
